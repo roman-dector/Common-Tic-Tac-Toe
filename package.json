@@ -1,0 +1,17 @@
+{
+  "name": "ex3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "mathjs": "^10.0.0",
+    "readline-sync": "^1.4.10",
+    "secure-random": "^1.1.2"
+  }
+}
